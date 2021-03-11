@@ -1,0 +1,11 @@
+﻿  ReadMotionData.cpp
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(45,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(80,19): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(85,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(100,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(119,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  main.cpp
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\main.cpp(325,31): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コードを生成中...
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\main.cpp(302): warning C4715: 'LoadCsv': 値を返さないコントロール パスがあります。
+  BVHPlayer.vcxproj -> C:\Users\hiro\Desktop\BVHPlayer11\Debug\BVHPlayer.exe

@@ -1,0 +1,38 @@
+﻿  ReadMotionData.cpp
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(45,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(80,19): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(85,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(101,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\ReadMotionData.cpp(120,20): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+glui32.lib(glui.obj) : warning LNK4075: /EDITANDCONTINUE は /OPT:ICF の指定によって無視されます。
+  コード生成しています。
+C:\Users\hiro\Desktop\BVHPlayer11\BVHPlayer\main.cpp(302): warning C4715: 'LoadCsv': 値を返さないコントロール パスがあります。
+  9 of 726 functions ( 1.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+glui32.lib(algebra3.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(algebra3.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(arcball.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(arcball.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui.obj) : warning LNK4099: PDB '' が 'glui32.lib(glui.obj)' で、または '' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_add_controls.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_add_controls.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_bitmaps.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_bitmaps.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_button.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_button.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_checkbox.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_checkbox.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_column.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_column.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_control.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_control.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_edittext.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_edittext.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_listbox.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_listbox.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_mouse_iaction.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_mouse_iaction.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_node.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_node.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_panel.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_panel.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_radio.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_radio.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_rollout.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_rollout.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_rotation.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_rotation.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_scrollbar.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_scrollbar.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_separator.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_separator.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_spinner.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_spinner.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_statictext.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_statictext.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_translation.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_translation.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(glui_window.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(glui_window.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+glui32.lib(quaternion.obj) : warning LNK4099: PDB 'glui32.pdb' が 'glui32.lib(quaternion.obj)' で、または 'C:\Users\hiro\Desktop\BVHPlayer11\Release\glui32.pdb' に見つかりません。デバッグ情報がないものとして、オブジェクトにリンクします。
+  BVHPlayer.vcxproj -> C:\Users\hiro\Desktop\BVHPlayer11\Release\BVHPlayer.exe

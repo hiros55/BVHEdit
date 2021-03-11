@@ -1,0 +1,218 @@
+﻿  Algorithm.cpp
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Algorithm.cpp(16,29): warning C4267: '初期化中': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Algorithm.cpp(46,43): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Algorithm.cpp(52,43): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+  BVH.cpp
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(162,36): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(242,37): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(287,19): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(314,31): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(349,39): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(375,52): warning C4244: '引数': 'const double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(378,52): warning C4244: '引数': 'const double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(381,52): warning C4244: '引数': 'const double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(387,53): warning C4244: '=': 'const double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(388,53): warning C4244: '=': 'const double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(389,53): warning C4244: '=': 'const double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(400,50): warning C4244: '引数': 'const double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(400,41): warning C4244: '引数': 'const double' から 'float' への変換です。データが失われる可能性があります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\BVH.cpp(400,32): warning C4244: '引数': 'const double' から 'float' への変換です。データが失われる可能性があります。
+  Bvhedit.cpp
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Bvhedit.cpp(20,46): warning C4267: '=': 'size_t' から 'int' に変換しました。データが失われているかもしれません。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Bvhedit.cpp(130,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Bvhedit.cpp(138,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Bvhedit.cpp(144,22): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Bvhedit.cpp(145,23): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  main.cpp
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Shader.hpp(4,27): error C2061: 構文エラー: 識別子 'GLint'
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Shader.hpp(5,30): error C2061: 構文エラー: 識別子 'GLint'
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Shader.hpp(6,27): error C2061: 構文エラー: 識別子 'GLint'
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Shader.hpp(8,18): error C3646: 'LoadShader': 不明なオーバーライド指定子です
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Shader.hpp(8,18): error C2059: 構文エラー: '('
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Shader.hpp(8,101): error C2238: ';' の前に無効なトークンがあります。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(42,25): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(42,15): error C2146: 構文エラー: ';' が、識別子 'bvhProgram' の前に必要です。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(44,33): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(44,8): error C2086: 'int GLuint': 再定義されました。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(42): message : 'GLuint' の宣言を確認してください
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(44,15): error C2146: 構文エラー: ';' が、識別子 'bvhVertexposition' の前に必要です。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(44,35): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(47,40): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(47,14): error C2146: 構文エラー: ';' が、識別子 'bvhModelViewMatrixLocation' の前に必要です。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(50,41): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(50,8): error C2086: 'int GLint': 再定義されました。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(47): message : 'GLint' の宣言を確認してください
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(50,14): error C2146: 構文エラー: ';' が、識別子 'bvhProjectionMatrixLocation' の前に必要です。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(52,25): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(52,8): error C2086: 'int GLuint': 再定義されました。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(42): message : 'GLuint' の宣言を確認してください
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(52,15): error C2146: 構文エラー: ';' が、識別子 'BvhBuffer' の前に必要です。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(52,27): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(53,18): error C2378: 'GLint': 再定義されています。シンボルは typedef でオーバーロードできません
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(47): message : 'GLint' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(57,28): error C2378: 'GLuint': 再定義されています。シンボルは typedef でオーバーロードできません
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\main.cpp(42): message : 'GLuint' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157,33): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157,25): error C2146: 構文エラー: ';' が、識別子 'glAccum' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157,59): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1158,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1158,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1158,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1158,37): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1158,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1158,25): error C2146: 構文エラー: ';' が、識別子 'glAlphaFunc' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1158,64): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1159,21): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1159,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1159,11): error C2146: 構文エラー: ';' が、識別子 'GLboolean' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1160,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1160,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1160,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1160,40): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1160,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1160,25): error C2146: 構文エラー: ';' が、識別子 'glArrayElement' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1160,47): error C2146: 構文エラー: ')' が、識別子 'i' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1161,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1161,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1161,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1161,33): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1161,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1161,25): error C2146: 構文エラー: ';' が、識別子 'glBegin' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1161,46): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1162,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1162,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1162,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1162,39): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1162,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1162,25): error C2146: 構文エラー: ';' が、識別子 'glBindTexture' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1162,62): error C2061: 構文エラー: 識別子 'GLuint'
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1162,70): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1163,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1163,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1163,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1163,34): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1163,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1163,25): error C2146: 構文エラー: ';' が、識別子 'glBitmap' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1163,148): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1164,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1164,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1164,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1164,37): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1164,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1164,25): error C2146: 構文エラー: ';' が、識別子 'glBlendFunc' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1164,69): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1165,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1165,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1165,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1165,36): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1165,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1165,25): error C2146: 構文エラー: ';' が、識別子 'glCallList' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1165,44): error C2146: 構文エラー: ')' が、識別子 'list' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1166,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1166,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1166,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1166,37): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1166,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1166,25): error C2146: 構文エラー: ';' が、識別子 'glCallLists' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1166,82): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1167,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1167,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1167,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1167,33): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1167,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1167,25): error C2146: 構文エラー: ';' が、識別子 'glClear' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1167,50): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1168,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1168,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1168,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1168,38): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1168,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1168,25): error C2146: 構文エラー: ';' が、識別子 'glClearAccum' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1168,95): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1169,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1169,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1169,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1169,38): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1169,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1169,25): error C2146: 構文エラー: ';' が、識別子 'glClearColor' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1169,99): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1170,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1170,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1170,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1170,38): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1170,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1170,25): error C2146: 構文エラー: ';' が、識別子 'glClearDepth' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1170,54): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1171,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1171,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1171,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1171,38): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1171,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1171,25): error C2146: 構文エラー: ';' が、識別子 'glClearIndex' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1171,49): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1172,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1172,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1172,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1172,40): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1172,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1172,25): error C2146: 構文エラー: ';' が、識別子 'glClearStencil' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1172,47): error C2146: 構文エラー: ')' が、識別子 's' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1173,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1173,16): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1173,1): error C2086: 'int WINGDIAPI': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'WINGDIAPI' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1173,37): error C2182: 'APIENTRY': 'void' 型が不適切に使用されています。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1173,16): error C2086: 'int APIENTRY': 再定義されました。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1157): message : 'APIENTRY' の宣言を確認してください
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1173,25): error C2146: 構文エラー: ';' が、識別子 'glClipPlane' の前に必要です。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1173,77): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1174,11): error C2144: 構文エラー: 'void' は ';' によって先行されなければなりません。
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\GL\gl.h(1174,16): fatal error C1003: プログラム内のエラーが 100 個を超えました。コンパイルは中断されます。
+  Matrix.cpp
+  Quaternion.cpp
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Quaternion.cpp(9,11): warning C4244: 'return': 'int' から 'T' への変換です。データが失われる可能性があります。
+          with
+          [
+              T=float
+          ]
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Quaternion.cpp(100): message : コンパイル対象の関数 テンプレート インスタンス化 'T sign<float>(T)' のリファレンスを確認してください
+          with
+          [
+              T=float
+          ]
+  ReadMotionData.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(127,1): warning C4005: 'CALLBACK': マクロが再定義されました。
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\glut.h(34): message : 'CALLBACK' の以前の定義を確認してください
+  Shader.cpp
+C:\Users\hiro\Desktop\澤入広\BVHPlayer11\BVHPlayer\Shader.cpp(30,32): warning C4267: '初期化中': 'size_t' から 'GLint' に変換しました。データが失われているかもしれません。
